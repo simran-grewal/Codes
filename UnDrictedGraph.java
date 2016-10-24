@@ -2,6 +2,8 @@ import java.util.Iterator;
 /**
  * Created by i_amg on 23-10-2016.
  */
+
+// Implementation of Graph in Java
 class Bag implements Iterable<Integer>
 {
     class Node
