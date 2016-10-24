@@ -2,6 +2,7 @@
  * Created by i_amg on 23-10-2016.
  */
 
+// To Find Number of Clustor or Number of Islands in 2D array
 class NoOfClustor
 {
     int[] OfSet = {-1, 0, 1};
